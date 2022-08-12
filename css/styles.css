@@ -1,0 +1,23 @@
+.sponsors{
+    width: 100%;
+    max-height: 2.27rem;
+}
+
+
+@media (min-width: 768px) { 
+    .hero-image {
+        max-height: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .hero-image {
+        max-height: 500px;
+    }
+}
+
+@media (min-width: 1367px) {
+    .hero-image {
+        max-height: 100%;
+    }
+}
